@@ -54,7 +54,7 @@ src/
 
 ### 1. Clone and install
 ```bash
-git clone https://github.com/YOUR_USERNAME/medisync.git
+git clone https://github.com/sumitgupta11660/medisync.git
 cd medisync
 npm install
 ```
